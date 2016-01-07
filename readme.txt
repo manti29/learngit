@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 bottom mess bottomPart.
+Creting a new branch is quick AND simple.

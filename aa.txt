@@ -1,6 +1,3 @@
 New file txt..........bottom part date 17:54.
-<<<<<<< HEAD
 add..add...add....
-=======
 bottom-16010810:17.
->>>>>>> dev

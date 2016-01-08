@@ -11,3 +11,4 @@ Creting a new branch is quick AND simple.
 >>>>>>> feature1
 add botom part of all txt.
 1413bottomtime---------.
+16010810:05-bottom-message.

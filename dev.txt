@@ -1,0 +1,3 @@
+This is a txt file:
+The file`s name is "dev",type is "txt"
+date:2016-01-08-10:56
